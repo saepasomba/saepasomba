@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Sae Pasomba
 
-<!--
-**saepasomba/saepasomba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a system-oriented and user-centered software engineer who believes that tech should exist to solve real problems—especially those that matter.
 
-Here are some ideas to get you started:
+![saepasomba's Stats](https://github-readme-stats-git-master-saepasombas-projects.vercel.app/api?username=saepasomba&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
+![saepasomba's Top Languages](https://github-readme-stats-git-master-saepasombas-projects.vercel.app/api/top-langs/?username=saepasomba&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 🧑‍💻 Interests
+
+-    iOS Development
+-   🌐 Front-end Development (Next.js, React, Flutter)
+-   🎨 Design x Code – making things that feel great to use
+-   🧪 Side projects and experiments
+
+---
+
+### 📫 Let's Connect
+
+-   💼 LinkedIn: [Sae pasomba](https://www.linkedin.com/in/saepasomba/)
+-   📬 Email: saepasomba12@gmail.com
+
+---
+
+> _"Tech isn't about the code. It's about the people we build it for."_
