@@ -8,8 +8,8 @@ I'm a system-oriented and user-centered software engineer who believes that tech
 
 ### 🧑‍💻 Interests
 
--    iOS Development
--   🌐 Front-end Development (Next.js, React, Flutter)
+-    iOS Development (SwiftUI and learning UIKit!)
+-   🌐 Front-end Development (Next.js, React, and animations library like Motion & GSAP)
 -   🎨 Design x Code – making things that feel great to use
 -   🧪 Side projects and experiments
 
